@@ -14,4 +14,17 @@
  13. Query Builder
  14. Eloquent ORM
  15. Socialite Packages
-  
+ 16. Project
+ 	- Category        Module (Backend)
+ 	- SubCategory     Module (Backend)
+ 	- District        Module (Backend)
+ 	- Sub-District    Module (Backend)
+ 	- Post Panel      Module (Backend)
+ 	- Social Link     Module (Backend)
+ 	- Dynamic SEO     Module (Backend)
+ 	- Prayer Time     Module (Backend)
+ 	- Live TV         Module (Backend)
+ 	- Notice	      Module (Backend)
+ 	- Photo Gallery   Module (Backend)
+ 	- Video Gallery   Module (Backend) 
+ 	- Important Sites Module (Backend)
