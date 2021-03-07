@@ -24,7 +24,7 @@
  	- Dynamic SEO     Module (Backend)
  	- Prayer Time     Module (Backend)
  	- Live TV         Module (Backend)
- 	- Notice	         Module (Backend)
+ 	- Notice          Module (Backend)
  	- Photo Gallery   Module (Backend)
  	- Video Gallery   Module (Backend) 
  	- Important Sites Module (Backend)
